@@ -57,7 +57,7 @@ nav ul .active{
 
 }
 .container header{
-    color:rgb(7, 7, 7);
+    color:rgb(250, 250, 250);
     text-align: center;
     Position: center;
     padding-top: 180px;
@@ -65,7 +65,7 @@ nav ul .active{
     
 }
 .icons-social a,i{
-    color: rgb(7,7,7);
+    color: rgb(250, 250, 250);
     width: 40px;
     height: 40px;
     
