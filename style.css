@@ -111,19 +111,6 @@ nav ul .active{
         height: calc(100vh - 75px);
         
     }
-    .container header{
-        color:rgb(7, 7, 7);
-        text-align: center;
-        Position: center;
-        padding-top: 180px;
-        margin: 0 auto;
-    }
-    .icons-social a,i{
-        color: rgb(7,7,7);
-        width: 40px;
-        height: 40px;
-        
-    }
     
     
 }
